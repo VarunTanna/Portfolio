@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* used standard universal for css page */
+body {
+    background-color: white;
+}
+/* styled my header */
+header {
+    padding: 20px;
+    font-family: "Fira Code", "JetBrains Mano NL", monospace;
+    background-color: black;
+    color: white;
+}
+
+/* stlying my h1 */
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* adding proper styling and properties to nav */
+nav {
+    padding-top: 15px;
+    margin-right: 10px;
+    float: right;
+    font-family: "Fira Code", "JetBrains Mano NL", monospace;
+    font-size: 20px;
+}
+
+nav a {
+    display: inline-block;
+    margin-left: 25px;
+    /* how to get this to turn white and add blue underline w text-dec */
+    
+}
