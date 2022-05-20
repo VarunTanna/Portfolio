@@ -35,5 +35,5 @@ I made my first website using HTML, CSS, Felxbox and even some JAVASCRIPT!
 
 ## Visuals
 
-![Portfolio](./assets/images/Varun-s-Page.png)
+![Portfolio](./assets/images/realreadme.png)
 
